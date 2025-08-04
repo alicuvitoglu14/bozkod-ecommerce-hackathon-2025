@@ -1,0 +1,11 @@
+user_id,device_type,product_category,time_on_page,clicked
+1,mobile,electronics,12.5,1
+2,desktop,books,4.2,0
+3,tablet,clothing,7.8,1
+4,mobile,books,2.1,0
+5,desktop,electronics,11.3,1
+6,tablet,books,3.5,0
+7,mobile,clothing,6.9,1
+8,desktop,clothing,4.8,0
+9,mobile,electronics,13.0,1
+10,tablet,electronics,9.5,1
